@@ -8,6 +8,8 @@ A brief description of your app.
 
 Follow these steps to deploy your app to Heroku.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/svex99/quick-zip-bot)
+
 ### Prerequisites
 
 - A [GitHub](https://github.com) account.
