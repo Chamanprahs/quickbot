@@ -1,7 +1,7 @@
 {
   "name": "Your App Name",
   "description": "A brief description of your app",
-  "repository": "https://github.com/your-username/your-repo",
+  "repository": "https://github.com/svex99/quick-zip-bot",
   "keywords": ["telegram", "bot", "heroku"],
   "env": {
     "API_ID": {
