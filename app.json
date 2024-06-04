@@ -1,0 +1,32 @@
+{
+  "name": "Your App Name",
+  "description": "A brief description of your app",
+  "repository": "https://github.com/your-username/your-repo",
+  "keywords": ["telegram", "bot", "heroku"],
+  "env": {
+    "API_ID": {
+      "description": "API ID from Telegram",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "API Hash from Telegram",
+      "required": true
+    },
+    "BOT_TOKEN": {
+      "description": "Bot token from BotFather",
+      "required": true
+    },
+    "CONC_MAX": {
+      "description": "Maximum concurrency for the bot",
+      "required": false
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ],
+  "addons": [
+    "heroku-postgresql"
+  ]
+}
