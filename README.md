@@ -1,5 +1,34 @@
 # quick-zip-bot
 
+# Your App Name
+
+A brief description of your app.
+
+## Deploy to Heroku
+
+Follow these steps to deploy your app to Heroku.
+
+### Prerequisites
+
+- A [GitHub](https://github.com) account.
+- A [Heroku](https://www.heroku.com) account.
+- [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) installed on your machine.
+
+### Deployment
+
+1. **Fork the repository**
+
+   Click the "Fork" button on the top right corner of the repository page on GitHub to fork the repository to your own account.
+
+2. **Clone the repository**
+
+   Open your terminal or command prompt and clone the forked repository to your local machine:
+
+   ```sh
+   git clone https://github.com/your-username/your-repo.git
+   cd your-repo
+
+
 ![GitHub](https://img.shields.io/github/license/svex99/quick-zip-bot)
 ![Github](https://img.shields.io/static/v1?label=python&message=3.10.0&color=succes)
 ![Github](https://img.shields.io/static/v1?label=&message=asyncio&color=informational)
